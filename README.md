@@ -2,8 +2,8 @@
 
 This repository contains my CV in two language versions:
 
-- [CV in Czech](./Leonid_Vladykin_CV_CZ.pdf)
-- [CV in English](./Leonid_Vladykin_CV_EN.pdf)
+- [CV in Czech](./Leonid_Vladykin_CV_CZ_actual.pdf)
+- [CV in English](./Leonid_Vladykin_CV_EN_actual.pdf)
 
 ## About me
 I am a student of Open Informatics at Mendel University in Brno, currently looking for an internship in frontend development.
